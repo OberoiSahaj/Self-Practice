@@ -1,3 +1,6 @@
+# This is relatively advance web scraping code by me in which I am using Selenium and BeautifulSoup.
+# Here I am scraping Lumendatabase.org for a project to obtain links of websites having copyrighted content or not.
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
